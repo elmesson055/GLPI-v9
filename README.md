@@ -58,7 +58,7 @@ Here's a README.md file with instructions for running Docker and configuring the
 1. **Clone or download the project** to your local machine
 2. **Navigate to the project folder**:
    ```bash
-   cd c:\Users\elmessonjesus\Desktop\GLPI
+   cd c:\Users\*********\Desktop\GLPI
  ```
 ```
 
